@@ -1,0 +1,18 @@
+c:\users\michael\documents\visual studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges Cursor.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges_Cursor.Form1.resources
+c:\users\michael\documents\visual studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges_Cursor.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges Cursor.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges XY Grabber.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges XY Grabber.pdb
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.exe.config
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges XY Grabber.exe
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges XY Grabber.pdb
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.exe
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\bin\Debug\DarkAges XY Grabber.pdb
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges Cursor.csprojResolveAssemblyReference.cache
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges_Cursor.Properties.Resources.resources
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges Cursor.csproj.GenerateResource.Cache
+C:\Users\mikeb\Dropbox\Shared with Andrew\Michael's Projects\DarkAges Cursor\DarkAges Cursor\obj\Debug\DarkAges_Cursor.MainForm.resources
